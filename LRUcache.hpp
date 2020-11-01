@@ -3,7 +3,6 @@
 #ifndef LRUcache_h
 #define LRUcache_h
 #include <unordered_map>
-#include <list>
 
 namespace{
     template <class ElemType>
